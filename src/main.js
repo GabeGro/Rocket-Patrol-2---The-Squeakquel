@@ -1,3 +1,9 @@
+/*
+Gabriel Groenwold
+Rocket Patrol 2: The Squeakquel
+Time working: 6-7 hours
+Mods: Countdown timer (3 pts), Time reward for hit (5), New title screen (3), new enemy (5), background music
+*/
 let config = {
     type: Phaser.AUTO,
     width: 640,
